@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Youssef-Nemaky
-- 👀 I’m interested in embedded systems
+- I am an ambitious computer Engineering student who's interested in embedded systems and software engineering in general
 - 🌱 I’m currently interested in learning <br />
 Arm Arechitecture <br />
 Operating systems and RTOS.
