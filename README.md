@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Youssef-Nemaky
 - I am an ambitious computer Engineering student who's interested in embedded systems and software engineering in general
-- 🌱 I’m currently interested in learning <br />
-Arm Arechitecture <br />
-Operating systems and RTOS.
 - 📫 How to reach me <br />
 <a href="https://www.linkedin.com/in/youssef-el-nemaky-575410218/">Linked In</a><br />
 <a href="https://www.facebook.com/Youssef.Elnemaky/">Facebook</a><br />
